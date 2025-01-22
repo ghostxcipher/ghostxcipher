@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 <!--
-**ghostxcipher/ghostxcipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Google's Cybersecurity Professional Certificate course & reading the CompTIA CySA+ textbook.
 - 🌱 I’m currently learning ... all about the ins & outs of cybersecurity.    
