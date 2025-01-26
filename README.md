@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 
 - 🔭 I’m currently working on ... Google's Cybersecurity Professional Certificate course & reading the CompTIA CySA+ textbook.
 - 🌱 I’m currently learning ... all about the ins & outs of cybersecurity.    
@@ -9,4 +8,4 @@
 - 💬 Ask me about ... your car's extended warranty - we've been trying to contact you. 
 - 📫 How to reach me: ... ghostxcipher19@gmail.com
 - ⚡ Fun fact: ... I speak English and Deutsch.
--->
+
